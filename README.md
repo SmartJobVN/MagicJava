@@ -1,0 +1,2 @@
+# MagicJava
+Magic Java programs
